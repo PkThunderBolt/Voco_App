@@ -93,10 +93,10 @@ We have implemented these features:
 6. Aradhana Kumari
 
 ### Hire Us
+<a href="https://www.linkedin.com/in/prashant-kumar-426775213/"> <img src="https://img.shields.io/badge/prashant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 <a href="https://www.linkedin.com/in/ujjwal-raj-b2545a213/"> <img src="https://img.shields.io/badge/ujjwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 <a href="https://www.linkedin.com/in/iamkrishnaraj/"> <img src="https://img.shields.io/badge/krishna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 <a href="https://www.linkedin.com/in/rajnish-puri-804b11209/"> <img src="https://img.shields.io/badge/rajnish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/prashant-kumar-426775213/"> <img src="https://img.shields.io/badge/prashant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 <a href="https://www.linkedin.com/in/shubham-kumar-0b44071b8/"> <img src="https://img.shields.io/badge/shubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 <a href="https://www.linkedin.com/in/aradhana-kumari-62b634218/"> <img src="https://img.shields.io/badge/aradhana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 
